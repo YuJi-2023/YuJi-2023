@@ -12,6 +12,6 @@
 
 <h3 align="left">Get in contact:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/yu-ji-785718113/]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YuJi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yu-ji-785718113/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YuJi" height="30" width="40" /></a>
 </p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuJi-2023&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
