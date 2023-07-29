@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Yu</h1>
 <h3 align="center">#GirlinTech👩🏻‍💻 #Mind📚&Body🧘🏻‍♀️Training</h3>
-<img align="centre" alt="code and yoga" width="400" border-radius="70%" src="pro.webp">
+<img align="right" alt="code and yoga" width="300" border-radius=25px src="pro.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YuJi-2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuji" /> </p>
 
