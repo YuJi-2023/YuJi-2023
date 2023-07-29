@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Yu</h1>
-<img align="right" alt="code and yoga" width="400" src="pro.webp">
+<img align="centre" alt="code and yoga" width="400" src="pro.webp">
+
 - 👩🏻‍💻 I’m currently on a full-time Software Engineer course
 
 - 🌱 I’m in the midway of learning **MySQL, React, JavaScript**
@@ -8,7 +9,7 @@
   
 - 📫 How to reach me: **sophia.jiyu@gmail.com**
   
-- 🐙 Fun fact: Octopus has three hearts ❤️❤❤️
+- 🐙 Fun fact: An octopus has three hearts ❤️❤❤️
 
 <h3 align="left">Get in contact:</h3>
 <p align="left">
