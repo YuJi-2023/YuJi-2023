@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YuJi-2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuji" /> </p>
 
-- 👩🏻‍💻 I’m currently on a full-time Software Engineer course
+- 👩🏻‍💻 A passionate junior software develpor who enjoys creative thinking and problem-solving
+
+- 📖 I’m currently on a full-time Software Engineer course
 
 - 🌱 I’m in the midway of learning **MySQL, React, JavaScript**
    
