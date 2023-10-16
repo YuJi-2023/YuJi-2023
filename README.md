@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YuJi-2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuji" /> </p>
 
-- 👩🏻‍💻 A passionate junior software develpor who enjoys creative thinking and problem-solving
+- 👩🏻‍💻 A passionate software develpor who enjoys creative thinking and problem-solving
 
-- 📖 I’m currently on a full-time Software Engineer course
+- 📖 I’m currently working on a PWA Dating Web project
 
-- 🌱 I’m in the midway of learning **ReactNative, NodeJS, JavaScript**
+- 🌱 I’m in the midway of learning MERN stacks **MongoDB, Express, ReactNative, NodeJS**
    
 - 💬 Ask me about: why I like coding and exercising
   
