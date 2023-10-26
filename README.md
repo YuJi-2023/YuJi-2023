@@ -8,7 +8,7 @@
 
 - 📖 I’m currently working on a PWA Dating App project
 
-- 🌱 I’m in the midway of learning MERN stacks **MongoDB, Express, ReactNative, NodeJS**
+- 🌱 I’m in the midway of learning MERN stacks **MongoDB, Express, React, NodeJS**
    
 - 💬 Ask me about: why I like coding and exercising
   
