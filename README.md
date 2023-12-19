@@ -6,9 +6,9 @@
 
 - 👩🏻‍💻 A passionate software develpor who enjoys creative thinking and problem-solving
 
-- 📖 I’m currently working on a PWA Dating App project
+- 📖 I’m proudly presenting you the PWA Dating App project that I've been working on: <a href="https://tulip-fe.onrender.com/">Tulip</a>
 
-- 🌱 I’m in the midway of learning MERN stacks **MongoDB, Express, React, NodeJS**
+- 🌱 I’m now in the midway of polishing skills of MERN stacks **MongoDB, Express, React, NodeJS**
    
 - 💬 Ask me about: why I like coding and exercising
   
