@@ -4,17 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YuJi-2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuji" /> </p>
 
-- 👩🏻‍💻 A passionate software develpor who enjoys creative thinking and problem-solving
+- 👩🏻 A passionate software develpor who enjoys the process of building applciations that involves creative thinking and problem-solving
+  
+- 🧡 A firm believer in life-long learning
+
+- 👩🏻‍💻 I’m now in the midway of building a web app utilising **TypeScript + React + Bootstrap + NodeJS**
+
+- 🌱 You may find me at some tech events, raising hands for questions, or engaging in discussions about new ideas or techs
 
 - 📖 Proudly presenting my portfolio project A PWA Dating App: <a href="https://tulip-fe.onrender.com/">Tulip</a>
-
-- 🌱 I’m now in the midway of building a web app utilising **TypeScript + React + Bootstrap + NodeJS**
    
-- 💬 Ask me about: why I like coding and exercising
+- 💬 Ask me about: why I like coding, reading and exercising
   
 - 📫 How to reach me: **sophia.jiyu@gmail.com**
   
-- 🐙 Fun fact: An octopus has three hearts ❤️❤❤️
+- 📚 Fun fact: People that read for 30 minutes or longer every week have a 21% greater chance of increasing their knowledge.
 
 <h3 align="left">Get in contact:</h3>
 <p align="left">
